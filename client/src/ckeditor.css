@@ -12,3 +12,11 @@
 .ck-editor__editable_inline {
   width: 700px;
 }
+
+.ck-editor__editable_inline {
+  padding: 0 15px !important;
+}
+
+.ck-editor__editable_inline li {
+  list-style-position: inside;
+}
